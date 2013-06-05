@@ -87,7 +87,7 @@ Like the phone screens, try to schedule the startups you don't really want befor
 ## Your offers
 By this point, you've probably got a bunch of offers and you need to work out exactly where you want to intern. As clichéd as they are, pros-cons lists work rather well here. Make sure you know what you want from the internship, and what's most important to you. I really wanted to be in NY or SF, doing something Rails related, and big data was a plus as well. 
 
-Don't be afraid to hop on another phone call with an engineer to ask them any questions about what you'll be done.
+Don't be afraid to hop on another phone call with an engineer to ask them any questions about what you'll be doing.
 
 Money should be important, but not the most important thing, especially as a freshman.You're going for experience, not the money. That being said, make sure you can actually live comfortably wherever you're going. If you're going to somewhere like NY or SF, keep in mind how high the cost of living is there, and don't forget to account for tax. 
 
