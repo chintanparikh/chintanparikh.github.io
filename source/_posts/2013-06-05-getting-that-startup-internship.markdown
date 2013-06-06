@@ -73,6 +73,8 @@ Also, if you haven't taken a Data Structures and Algorithm's class, make sure yo
 
 Be sure to brush up on the company's tech stack, and everything you have in your resume. If you've got Rails in your resume, and the startup uses Rails, you can be damn sure they'll ask you a question on Rails. 
 
+Lastly, be sure to do some research on the company - if they're a bigger startup, you might be able to find interview questions on [Glassdoor](http://www.glassdoor.com/index.htm) and the like (props to [Shehmeer](https://twitter.com/SirDragonai) for the tip) 
+
 Once they're done, make sure you have questions of your own to ask. I was always really interested in the culture of the startup, so I asked about their core values and such. It's also useful to know what kind of problems you'll be working on. Lastly, after being asked the *"Explain something to me"* question, I realized how useful it was in working out how someone thinks. If I was interviewing with an engineer, I made sure to ask that to see how well he/she could teach.
 
 After your phone screen, you should get a response in a few days. If you don't, be sure to email back and ask for a status update. Some startups will offer you the position right after the phone screen, whereas others will ask for further phone screens, or request that you come in.
