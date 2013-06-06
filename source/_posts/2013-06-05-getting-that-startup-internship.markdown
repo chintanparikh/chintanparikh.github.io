@@ -11,7 +11,7 @@ So I've officially started my summer internship at [Aidin](http://www.myaidin.co
 ## One year before your summer internship
 You're still living at home, and you've got a lot of free time on your hands. You need to make sure this time is spent productively. Don't get me wrong - make sure to have an absolute blast before starting college, but when you're not out with friends, code.
 
-There's no easy way to go from being a mediocre developer to a good developer. You've really got to code as much as you can. This period of time is great because you've got a lot of time for unstructured learning. Find something you're interested in, and code. Web development is really hot right now, as it big data. If you get decent in either of these fields, you'll land yourself a great internship. Learning Rails is a great idea, as it's used by a tonne of startups. Build up your [github](http://github.com/chintanparikh) with some cool side projects.
+There's no easy way to go from being a mediocre developer to a good developer. You've really got to code as much as you can. This period of time is great because you've got a lot of time for unstructured learning. Find a problem you have, and codea solution. Web development is really hot right now, as it big data - if you get decent in either of these fields, you'll land yourself a great internship. Learning Rails is also a great idea, as it's used by a tonne of startups. Try to build up your [github](http://github.com/chintanparikh) with some cool side projects.
 
 My situation was slightly unique. I'd gone to an international school back in Perth, Australia and we didn't follow the same timetable as every other school in the country. As a result, everyone was still in school after I graduated, so I went out and approached a bunch of web development firms to see if I could get an internship. I got lucky, and got hired by [The Frontier Group](http://www.thefrontiergroup.com.au/) where they taught me Rails, Agile development, and how to make *amazing* coffee.
 
@@ -31,7 +31,7 @@ Now the first email you send is pretty important. Make sure it reflects your per
 
 Here was my basic template:
 
-> Hi Scott,
+> Hi **Founder**,
 > 
 > I'm Chintan, a freshman at Georgia Institute of Technology, and I'm looking to be **company**'s next kick ass engineering intern.
 >
@@ -100,7 +100,7 @@ If you have any questions about the process, feel free to shoot me an [email](ma
 
 Also, if you're looking for some neat startups, these startups really stood out to me. They've got an amazing team, and are definitely places that I'd suggest working at over the summer.
 
-* [Plaid](https://www.plaid.io/) - While I absolutely bombed my phone screen (I think it was my second phone interview), William made me feel remarkably comfortable, and it's clear that they're remarkably smart. They also [won the TechCrunch Disrupt Hackathon](http://techcrunch.com/2013/04/28/rambler-takes-home-the-disrupt-ny-2013-hackathon-grand-prize-radical-and-learn-to-drive-are-runners-up/)
+* [Plaid](https://www.plaid.io/) - While I absolutely bombed my phone screen (I think it was my second phone interview), William made me feel extremely comfortable, and it's clear that they're remarkably smart. They also [won the TechCrunch Disrupt Hackathon](http://techcrunch.com/2013/04/28/rambler-takes-home-the-disrupt-ny-2013-hackathon-grand-prize-radical-and-learn-to-drive-are-runners-up/)
 * [Aidin](http://www.myaidin.com/) - It'd be hard to find a cooler team to work with over the summer. These guys are super smart, and are disrupting an industry that is stuck in the stone ages. They're also saving lives, and that really appealed to me.
 * [Enigma](http://enigma.io/) - These guys were awesome. I got an offer from them, and I know that I wouldn't have regretted it for a second had I accepted. They're big on big data, and are an amazing group of people. Oh, and they [won TechCrunch Disrupt's Startup Battlefield](http://techcrunch.com/2013/05/01/and-the-winner-of-techcrunch-disrupt-ny-2013-is-enigma/)
 * [Khan Academy](https://www.khanacademy.org/) - EdTech startups kick ass. These guys kick ass. And they have an absolutely amazing team behind them. I really enjoyed their interviews and it really felt like me and the interviewer were working through a problem together, instead of an interview.
