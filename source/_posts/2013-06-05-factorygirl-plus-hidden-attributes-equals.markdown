@@ -13,13 +13,13 @@ They allow you to specify groups of attributes and callbacks that can be applied
 ``` ruby A regular factory with a sub_referral
 FactoryGirl.define do
   factory :referral do
-  	name 'A referral'
+    name 'A referral'
   	
-  	trait :with_sub_referrals do
+    trait :with_sub_referrals do
   	  after(:create) do |referral|
         5.times { create(:sub_referral, referral: ref) }
   	  end
-  	end
+    end
   end
 end
 ```
@@ -35,13 +35,13 @@ But wait, I hear you say - why not just define a new factory, like so:
 ``` ruby A regular factory with a sub factory
 FactoryGirl.define do
   factory :referral do
-  	name 'A referral'
+    name 'A referral'
   	
-  	factory :referral_with_sub_referrals do
+    factory :referral_with_sub_referrals do
   	  after(:create) do |referral|
   	    5.times { create(:sub_referral, referral: ref) }
   	  end
-  	end
+    end
   end
 end
 ```
@@ -50,17 +50,17 @@ Sure, this works, but what if I have two traits?
 ``` ruby A regular factory with a sub_referral
 FactoryGirl.define do
   factory :referral do
-  	name 'A referral'
+    name 'A referral'
   	
-  	trait :with_sub_referrals do
+    trait :with_sub_referrals do
   	  after(:create) do |referral|
   	    5.times { create(:sub_referral, referral: ref) }
   	  end
-  	end
+    end
   	
-  	trait :with_rating do
+    trait :with_rating do
   	  rating 5
-  	end
+    end
   end
 end
 ```
@@ -79,21 +79,21 @@ An ignored attribute is exactly what it sounds like - an attribute that's ignore
 ``` ruby A trait using ignored attributes
 FactoryGirl.define do
   factory :referral do
-  	name 'A referral'
+    name 'A referral'
   	
-  	trait :with_sub_referrals do
+    trait :with_sub_referrals do
   	  ignore do
-  	  	sent_referrals_count 5
+  	    sent_referrals_count 5
   	  end
   	  
   	  after(:create) do |referral, eval|
   	    eval.sent_referral_count.times { create(:sub_referral, referral: ref) }
   	  end
-  	end
+    end
   	
-  	trait :with_rating do
+    trait :with_rating do
   	  rating 5
-  	end
+    end
   end
 end
 ```
