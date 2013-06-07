@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FactoryGirl + ignored attributes = ♥"
+title: "Traits + Ignored Attributes = ♥"
 date: 2013-06-05 21:22
 comments: true
 categories: 
