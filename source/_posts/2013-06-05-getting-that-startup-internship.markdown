@@ -5,6 +5,7 @@ date: 2013-06-05 18:25
 comments: true
 categories: 
 ---
+**tl;dr - Code, a lot. Send cold emails to founders. Do your research on companies. Network. Practice interviews. Don't give up**
 
 So I've officially started my summer internship at [Aidin](http://www.myaidin.com/) (they kick ass), and a bunch of people have been asking me for tips on getting an internship at a startup as a freshman. 
 
