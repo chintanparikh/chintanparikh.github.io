@@ -14,28 +14,28 @@ My issue was that I'd installed gcc-4.2 using homebrew. Re-installing homebrew b
 First, try ```brew install apple-gcc42```. If you're lucky, it'll work, and you're set.
 
 If not, you need to tap ```homebrew/dupes```. A tap is just homebrew speak for another git repository with extra formulae. Try 
-``` bash 
+``` sh 
 brew tap homebrew/dupes
 brew update
 brew install apple-gcc42
 ```
 
 It might fail on the ```brew update``` step. This is a super old bug that's been fixed, but you need to do the following:
-``` bash
+``` sh
 cd $(brew --repository)
 git reset --hard FETCH_HEAD
 ```
 
 If that doesn't work:
 
-``` bash
+``` sh
 cd $(brew --repository)/Library
 git clean -fd
 ```
 
 Now that almost fixed it for me, but when I ran brew update it was complaining about overwritten files in ```homebrew/dupes```. I couldn't find the solution for this anywhere, so I kept poking around and trying different things. Here's what worked:
 
-``` bash
+``` sh
 cd $(brew --repository)/Library/Taps/homebrew-dupes
 git reset --hard FETCH_HEAD
 brew update
