@@ -30,3 +30,5 @@ The response however, is a little more interesting:
 Matches and blocks are fairly obvious - new people you're matched with, and new people who have blocked you. However, it's the `trending` field that's a little more interesting. I'm completely spitballing here, but it's definitely possible that Tinder will charge users to "trend" to other users on tinder. Maybe this means that more people see them? I also have no idea what the `matchmaker` field is.
 
 Any thoughts?
+
+EDIT: I was using the Android version, so it didn't have the "matchmaker" feature. I just played with a friend's iOS phone, and it's pretty clear what the matchmaker attribute is.
