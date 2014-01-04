@@ -9,21 +9,24 @@ categories:
 
 So I've officially started my summer internship at [Aidin](http://www.myaidin.com/) (they kick ass), and a bunch of people have been asking me for tips on getting an internship at a startup as a freshman. 
 
-## One year before your summer internship
+**One year before your summer internship**
+
 You're still living at home, and you've got a lot of free time on your hands. You need to make sure this time is spent productively. Don't get me wrong - make sure to have an absolute blast before starting college, but when you're not out with friends, code.
 
 There's no easy way to go from being a mediocre developer to a good developer. You've really got to code as much as you can. This period of time is great because you've got a lot of time for unstructured learning. Find a problem you have, and codea solution. Web development is really hot right now, as it big data - if you get decent in either of these fields, you'll land yourself a great internship. Learning Rails is also a great idea, as it's used by a tonne of startups. Try to build up your [github](http://github.com/chintanparikh) with some cool side projects.
 
 My situation was slightly unique. I'd gone to an international school back in Perth, Australia and we didn't follow the same timetable as every other school in the country. As a result, everyone was still in school after I graduated, so I went out and approached a bunch of web development firms to see if I could get an internship. I got lucky, and got hired by [The Frontier Group](http://www.thefrontiergroup.com.au/) where they taught me Rails, Agile development, and how to make *amazing* coffee.
 
-## First Semester
+**First Semester**
+
 I ignored looking for internships during my first semester, but I did go to the career fair. The one callback I got from the career fair was from [Andreessen Horowitz](http://a16z.com/), who wanted to add me to their talent pool. The technical interview was remarkably easy, and I can't stress how much they've helped me out during this entire process. They introduce me to any startup in their [portfolio](http://a16z.com/portfolio/) that I'm interested in (and they invest in some amazing startups). They also really helped me out when I was having issues getting work authorization (oh the woes of an international student). If you see a16z at your career fair, be sure to speak to them - as long as you know your basics, you'll be fine.
 
 If you're an international student, you **need** to go to your Office of International Education and ask about either a OPT or a CPT work authorization permit. It's vital that you don't put this off - I did and almost couldn't work over the summer, even after I'd signed paperwork with Aidin.
 
 During my winter break, I worked out exactly what I wanted from my internship. I knew I wanted to be interning at a startup, as that scene really interested me. I also bought [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X), which was a great read, even if I didn't understand much of it (I hadn't taken my data structures and algorithms class at that point). I also really wanted to be in NY or SF.
 
-## Second Semester
+**Second Semester**
+
 Second semester rolled around, and I got to work. I found startups that I thought were neat, or where I thought I'd learn a lot. [AngelList](https://angel.co/) is amazing for this, and you can filter by location. Once I found a startup I thought was neat, I used [Crunchbase](http://www.crunchbase.com/) and the startup's website to find more information about them. Be sure to take a look at the startup's jobs page. Even if they don't have any intern positions explicitly listed, take a look at the software engineer roles to see what kind of skill set you'll want to emphasize on your resume. The [Hacker News](https://news.ycombinator.com/) Who's Hiring threads ([example](https://news.ycombinator.com/item?id=5472746)) were also great.
 
 Next, I found a co-founder's email. 9 times out of 10 it was firstname@startup.com. [Rapportive](http://rapportive.com/) was super useful in checking if I had the right email. If I couldn't find the email, I tried a bunch of different combinations in a Google Search and eventually something matched. If I couldn't find the co-founder's email, I looked for a jobs@startup email, which was usually easier to find.
@@ -54,14 +57,16 @@ This intro email is basically your "cover letter", so give the startup a reason 
 
 After this, you wait. Some startups will reject you right off, saying they don't hire freshman. Other's simply won't respond. However, if you've got a decent github, you should get some phone screens. There was a period where I'd wake up in the morning, go to class, and shoot off emails to ~50 different startups that I thought were cool. Do this for a week, and you'll have plenty of phone interviews.
 
-## Networking
+**Networking**
+
 As cliché as this sounds, networking is important. It's a remarkably fast way to meet important startup founders, and get introductions to great places to intern. Get involved in the startup community at your school. Early on in my second semester, I met [Aswin](https://twitter.com/heyaswin). He was awesome, and was seriously involved in the startup community at Georgia Tech. He was in the process of founding an organization which would try and bring the startup community to Georgia Tech, and I got involved. I met a tonne of amazing people, got to go to some amazing [startup](http://www.founderfables.com/) [conferences](http://startupriot.com/), and I met a bunch of amazing founders of successful startups. A personal connection or an introduction by someone the founder knows personally is definitely better than a cold email.
 
 I also learnt a lot about how startups operate, co-organized a hackathon and helped a bunch of fellow students launch their startups.
 
 Oh, and I'm now co-running the place (Startup Exchange), so if you're at Georgia Tech, we'd love for you to get involved. I'd suggest applying to [Startup Semester](http://www.startupsemester.gatech.edu/). It's our free "incubator", where we'll turn you into a lean, mean startup machine.
 
-## Phone Screens
+**Phone Screens**
+
 My first phone screen was terrifying. I had no idea what to expect, no idea what kind of questions I'd be asked. One of the first emails I'd sent was to a pretty big YC company, and they wanted to interview me. I got excited, and set up the phone screen for the next week. ** Do not do this**. I absolutely bombed my first phone screen. I was nervous, and even when I knew the answers, I couldn't communicate them effectively. 
 
 I'd recommend scheduling the first 5 or so phone screens with startups that you don't particularly care about. This will get you into the habit of interviewing over the phone and build up the confidence you need to think on the spot.
@@ -80,14 +85,16 @@ Once they're done, make sure you have questions of your own to ask. I was always
 
 After your phone screen, you should get a response in a few days. If you don't, be sure to email back and ask for a status update. Some startups will offer you the position right after the phone screen, whereas others will ask for further phone screens, or request that you come in.
 
-## In-person Interviews
+**In-person Interviews**
+
 This is the fun part. You get flown around the country, with private drivers and fancy hotel rooms. Don't go *too* crazy the night before your interview, and make sure you brush up on things you might need to know. Data Structure questions came up a lot, but the in person interview varies pretty wildly between different startups. Some will ask you to build a small application, or pair program with an engineer (these are awesome). Others will sit you down at a desk for 6 hours with different engineers coming in and out asking you questions (these aren't so awesome).
 
 If you already have offers from other startups in the area you're flying too, it's not a bad idea to try and meet the team over dinner. I did that with Aidin, and realized that I'd really enjoy working with the team over summer.
 
 Like the phone screens, try to schedule the startups you don't really want before the one's you do want.
 
-## Your offers
+**Your offers**
+
 By this point, you've probably got a bunch of offers and you need to work out exactly where you want to intern. As clichéd as they are, pros-cons lists work rather well here. Make sure you know what you want from the internship, and what's most important to you. I really wanted to be in NY or SF, doing something Rails related, and big data was a plus as well. 
 
 Don't be afraid to hop on another phone call with an engineer to ask them any questions about what you'll be doing.
@@ -96,7 +103,8 @@ Money should be important, but not the most important thing, especially as a fre
 
 Once you've decided where you want to be this summer, send them an email to get the paperwork started. Politely decline your other offers (keep in mind you might want to work for them next year!), and thank them for their time. Nothing sucks more than a stock rejection, so try and actually put some effort into it.
 
-## Need help?
+**Need help?**
+
 If you have any questions about the process, feel free to shoot me an [email](mailto: chintanparikh@gatech.edu).
 
 Also, if you're looking for some neat startups, these startups really stood out to me. They've got an amazing team, and are definitely places that I'd suggest working at over the summer.
