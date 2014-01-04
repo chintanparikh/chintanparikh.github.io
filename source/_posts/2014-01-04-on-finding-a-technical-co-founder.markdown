@@ -12,7 +12,7 @@ Every few days, I get an email or a Facebook message asking me if I know anyone 
 
 The most important thing you can do is to have many hacker friends. 
 
-Every hacker I know would never consider being a technical co-founder of someone they didn't know. The "exception" is if you've already got a funded, successful startups, but those founders will never be looking for a technical co-founder, so it's hardly an exception.
+Every hacker I know would never consider being a technical co-founder of someone they didn't know. The "exception" is if you've already got a funded, successful startup, but those founders will never be looking for a technical co-founder, so it's hardly an exception.
 
 The logical conclusion is that you need to meet a lot of technical people. But there's a clear difference between meeting someone and befriending someone. In college, meeting hackers isn't hard - go to your college web development/mobile development club. The thing is, humans aren't stupid - developers will know if you're just there to shake hands and "network", and it means you're not going to fit in with the community. 
 

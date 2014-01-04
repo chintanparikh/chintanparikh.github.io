@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting that Startup Internship"
+title: "Getting that startup internship"
 date: 2013-06-05 18:25
 comments: true
 categories: 
