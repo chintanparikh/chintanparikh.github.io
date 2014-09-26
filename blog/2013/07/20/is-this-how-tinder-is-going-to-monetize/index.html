@@ -1,0 +1,172 @@
+
+<!DOCTYPE HTML>
+<html lang="en-GB">
+<head>
+	<meta charset="utf-8">
+	<title>Is this how Tinder is going to monetize?  | chintan</title>
+
+	<meta name="author" content="Chintan Parikh">
+
+<meta name="description" content="So I&rsquo;m at a Branch hackathon right now, and we&rsquo;re all just chilling. I decided to poke around Tinder and try to peek at their API. Every &hellip;"> <meta name="keywords" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="chintan" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+
+</head>
+
+
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">chintan</a></h1>
+<span class="tagline">college & startups</span>
+<!-- <nav id="main-nav"><ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/archives">Archives</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</nav> -->
+<!-- <nav id="mobile-nav"> -->
+<!-- 	<div class="alignleft menu"> -->
+<!-- 		<a class="button">Menu</a> -->
+<!-- 		<div class="container"><ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/archives">Archives</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</div> -->
+<!-- 	</div> -->
+<!-- </nav> -->
+
+
+</header>
+
+	<div id="content" class="inner"><article class="post">
+	<header>
+		<h2 class="title">Is This How Tinder Is Going to Monetize?</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-07-20T00:28:00-04:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time></div>
+	</header>
+	<div class="entry-content"><p>So I&rsquo;m at a Branch hackathon right now, and we&rsquo;re all just chilling. I decided to poke around Tinder and try to peek at their API.</p>
+
+<p>Every second or so, there&rsquo;s a POST request to api.tinder.com/updates which passes in</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='json'><span class='line'><span class="p">{</span>
+</span><span class='line'>    <span class="nt">&quot;last_activity_date&quot;</span><span class="p">:</span> <span class="s2">&quot;2013-07-20T02:57:36.127Z&quot;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>The response however, is a little more interesting:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='json'><span class='line'><span class="p">{</span>
+</span><span class='line'>    <span class="nt">&quot;matches&quot;</span><span class="p">:</span> <span class="p">[],</span>
+</span><span class='line'>    <span class="nt">&quot;blocks&quot;</span><span class="p">:</span> <span class="p">[],</span>
+</span><span class='line'>    <span class="nt">&quot;matchmaker&quot;</span><span class="p">:</span> <span class="p">[],</span>
+</span><span class='line'>    <span class="nt">&quot;last_activity_date&quot;</span><span class="p">:</span> <span class="s2">&quot;Sat, 20 Jul 2013 02:57:36 GMT&quot;</span><span class="p">,</span>
+</span><span class='line'>    <span class="nt">&quot;trending&quot;</span><span class="p">:</span> <span class="kc">false</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Matches and blocks are fairly obvious &ndash; new people you&rsquo;re matched with, and new people who have blocked you. However, it&rsquo;s the <code>trending</code> field that&rsquo;s a little more interesting. I&rsquo;m completely spitballing here, but it&rsquo;s definitely possible that Tinder will charge users to &ldquo;trend&rdquo; to other users on tinder. Maybe this means that more people see them? I also have no idea what the <code>matchmaker</code> field is.</p>
+
+<p>Any thoughts?</p>
+
+<p>EDIT: I was using the Android version, so it didn&rsquo;t have the &ldquo;matchmaker&rdquo; feature. I just played with a friend&rsquo;s iOS phone, and it&rsquo;s pretty clear what the matchmaker attribute is.</p>
+</div>
+
+</article>
+
+	
+	<div class="share">
+	  <ul>
+	    <li>
+  <a href="https://twitter.com/intent/tweet?text=Is this how Tinder is going to monetize? by @chintanparikh&url=http://chintanparikh.github.io/blog/2013/07/20/is-this-how-tinder-is-going-to-monetize/" title="Share Is this how Tinder is going to monetize? on Twitter">
+    <img src="/images/social/twitter.png" />
+  </a>
+</li>
+
+	    <li>
+  <a href="https://www.facebook.com/sharer.php?u=http://chintanparikh.github.io/blog/2013/07/20/is-this-how-tinder-is-going-to-monetize/" title="Share Is this how Tinder is going to monetize? on Facebook">
+    <img src="/images/social/facebook.png" />
+  </a>
+</li>
+
+	    <li>
+  <a href="https://plus.google.com/share?url=http://chintanparikh.github.io/blog/2013/07/20/is-this-how-tinder-is-going-to-monetize/" title="Share Is this how Tinder is going to monetize? on Google Plus">
+    <img src="/images/social/google.png" />
+  </a>
+</li>
+
+	  </ul>
+	</div>
+
+
+
+</div>
+	<footer id="footer" class="inner"><br>
+<br>
+<br>
+<br>
+&copy; 2014
+
+    Chintan Parikh
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/hyphenator.js"></script>
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-41507762-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+
+</body>
+<script>
+  $(document).ready(function() {
+  // Make images center
+  $('p:has(img)').css('text-align', 'center');
+  });
+</script>
+</html>
